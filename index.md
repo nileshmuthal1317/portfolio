@@ -5,10 +5,6 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ## Machine Learning 
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
 ### Linear-regression
   I developed a linear regression model in Python to help determine whether or not people have disabilities.
 
