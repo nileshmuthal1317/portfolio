@@ -1,15 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
 <head>
-  <meta charset="UTF-8">
-  {% seo %}
-  <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#157878">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-  {% include head-custom.html %}
+  <!-- Head content here -->
 </head>
 <body>
   <a id="skip-to-content" href="#content">Skip to the content.</a>
@@ -26,7 +18,10 @@
     {% endif %}
     <a href="https://saurabhharak.github.io/portfolio/data-engineer" class="btn">Data Engineer Projects</a>
     <a href="https://saurabhharak.github.io/portfolio/data-science" class="btn">Data Science Projects</a>
-    <a href="https://saurabhharak.github.io/portfolio/full-stack-developer" class="btn">Full Stack Projects</a>
+    <a href="https://saurabhharak.github.io/portfolio/full-stack-developer" class="btn">Full Stack Developer Projects</a>
+
+    <!-- Adding the home button -->
+    <a href="https://saurabhharak.github.io/" class="btn" style="position: absolute; top: 10px; right: 10px;">Home</a>
   </header>
 
   <main id="content" class="main-content" role="main">
