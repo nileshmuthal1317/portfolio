@@ -3,8 +3,7 @@
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Machine Learning PROJECTS
-
+## Machine Learning Projects
 
 **Title: BoomBikes shared bikes**
 - **Problem Statement:** Model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features.
@@ -70,6 +69,19 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
   - Confusion Matrix.
 - **GitHub Link:** [GitHub Repository](https://github.com/saurabhharak/Melanoma-Detection)
 
+**Title: Drone Detection Model**
+- **Technology Stack:** CNN (YOLOv3), Python, OpenCV, NumPy
+- **Problem Statement:** Develop a dynamic Drone Detection Model for defense applications, utilizing machine learning techniques and PTZ Camera & sensors. The objective is to detect drones and integrate the system with jammers or other hard kill systems. The model should be cost-effective and enhance the performance of jammer systems.
+- **Steps Followed:**
+  - Conducted exhaustive research on Drone Detection and Neutralization in the Defense sector.
+  - Collected drone image data from different aggregators through web scraping.
+  - Formulated detailed datasets for recordkeeping.
+  - Designed and developed a Drone Detection System using YOLOv3 (CNN) in Python with OpenCV and NumPy.
+  - Integrated PTZ Camera & sensors into the detection system.
+  - Minimized the cost of the PTZ system by one third compared to other solutions.
+  - Implemented the Drone Detection System, coupled with jammers or other hard kill systems.
+  - Evaluated the performance of the Drone Detection System and found a 35% enhancement in jammer system performance.
+
 **Title: Gesture recognition**
 - **Problem Statement:** Build a 3D Conv model that will be able to predict the 5 gestures correctly.
 - **Steps Followed:**
@@ -113,6 +125,8 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
      - Model Creation and Deployment.
    - **Live project link:** [GitHub Repository](https://github.com/saurabhharak/Logistic-Regression-)
 
+## Full Stack Developer Projects
+
 **Title: ERP System**
    - **Project Description:** This is the ERP application that assists vegetable companies of all types in more ways than one. For busy vegetable dealers, this application provides accounting, staff management, transportation information, costs, import-export details, mobile message billing, and several other features.
    - **Front End:** Kivy
@@ -125,29 +139,16 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
    - **Live project link:** [GitHub Repository](https://github.com/saurabhharak/)
 
 
-**Title: Drone Detection Model**
-- **Technology Stack:** CNN (YOLOv3), Python, OpenCV, NumPy
-- **Problem Statement:** Develop a dynamic Drone Detection Model for defense applications, utilizing machine learning techniques and PTZ Camera & sensors. The objective is to detect drones and integrate the system with jammers or other hard kill systems. The model should be cost-effective and enhance the performance of jammer systems.
-- **Steps Followed:**
-  1. Conducted exhaustive research on Drone Detection and Neutralization in the Defense sector.
-  2. Collected drone image data from different aggregators through web scraping.
-  3. Formulated detailed datasets for recordkeeping.
-  4. Designed and developed a Drone Detection System using YOLOv3 (CNN) in Python with OpenCV and NumPy.
-  5. Integrated PTZ Camera & sensors into the detection system.
-  6. Minimized the cost of the PTZ system by one third compared to other solutions.
-  7. Implemented the Drone Detection System, coupled with jammers or other hard kill systems.
-  8. Evaluated the performance of the Drone Detection System and found a 35% enhancement in jammer system performance.
-
 **Title: Breath Analyser Web Applications**
 - **Technology Stack:** Python, Django, HTML, CSS, Ajax, Heroku
 - **Problem Statement:** Create a web application for Breath Analyzer to track user information and results, allowing CRUD operations and providing a user-friendly interface. The application should be designed to manage user interactions efficiently and use AJAX for seamless data updates without reloading the entire page. The application will use Django Web Framework and MySQL database for data storage.
 - **Steps Followed:**
-  1. Participated in the Software Development Life Cycle (SDLC), including requirements gathering, analysis, detailed design, development, system testing, and user acceptance testing.
-  2. Developed Create, Read, Update, and Delete (CRUD) methods in Active Record.
-  3. Designed the front-end and back-end modules using Python with Django Web Framework.
-  4. Created user interactive web pages using HTML, JavaScript, and CSS for a better appearance and user experience.
-  5. Implemented AJAX to update small portions of web pages through server requests without full page reloads.
-  6. Managed code versioning using GitHub and handled deployment to staging and production servers.
-  7. Utilized MySQL database for handling simple queries.
-  8. Deployed the web application using Heroku.
+  - Participated in the Software Development Life Cycle (SDLC), including requirements gathering, analysis, detailed design, development, system testing, and user acceptance testing.
+  - Developed Create, Read, Update, and Delete (CRUD) methods in Active Record.
+  - Designed the front-end and back-end modules using Python with Django Web Framework.
+  - Created user interactive web pages using HTML, JavaScript, and CSS for a better appearance and user experience.
+  - Implemented AJAX to update small portions of web pages through server requests without full page reloads.
+  - Managed code versioning using GitHub and handled deployment to staging and production servers.
+  - Utilized MySQL database for handling simple queries.
+  - Deployed the web application using Heroku.
 
