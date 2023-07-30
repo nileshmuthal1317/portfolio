@@ -16,7 +16,7 @@ I have a profound belief in the power of technology to solve complex problems an
 
 ## Constant Growth
 
-I am excited about the endless possibilities in the field of technology, and I remain eager to continue learning and growing as a Data Engineer. My commitment to making a positive impact through my technical abilities drives me forward every day.
+I am excited about the endless possibilities in the field of technology, and I remain eager to continue learning and growing as a Data Engineer/ ML Engineer. My commitment to making a positive impact through my technical abilities drives me forward every day.
 
 ## My Projects
 
