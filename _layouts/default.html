@@ -15,15 +15,15 @@
 <body>
   <a id="skip-to-content" href="#content">Skip to the content.</a>
   <header class="page-header" role="banner">
-    <a href="https://saurabhharak.github.io/portfolio/" class="btn">
-      <i class="fas fa-home"></i> Home
-    </a>
     <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
     <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
     {% if site.show_downloads %}
       <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
       <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
     {% endif %}
+    <a href="https://saurabhharak.github.io/portfolio/" class="btn">
+      <i class="fas fa-home"></i> Home
+    </a>
     <a href="https://saurabhharak.github.io/portfolio/data-science" class="btn">Data Science Projects</a>
     <a href="https://saurabhharak.github.io/portfolio/data-engineer" class="btn">Data Engineering Projects</a>
     <a href="https://saurabhharak.github.io/portfolio/full-stack-developer" class="btn">Full Stack Developer Projects</a>
