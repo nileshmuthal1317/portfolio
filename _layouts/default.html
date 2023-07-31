@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+
+{% capture home_page_url %}https://saurabhharak.github.io/portfolio/{% endcapture %}<!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
 <head>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
@@ -21,7 +22,8 @@
       <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
       <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
     {% endif %}
-    <a href="https://saurabhharak.github.io/portfolio/" class="btn">
+    {% if page.url != home_page_url %}
+    <a href="{{ home_page_url }}" class="btn">
       <i class="fas fa-home"></i> Home
     </a>
     <a href="https://saurabhharak.github.io/portfolio/data-science" class="btn">Data Science Projects</a>
