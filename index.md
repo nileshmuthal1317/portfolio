@@ -12,7 +12,7 @@ In my previous role as a Full Stack Developer in the drone industry, I had the o
 
 ## Passion for Technology
 
-I have a profound belief in the power of technology to solve complex problems and make a positive impact. As a Data Engineer, I find joy in tackling challenging projects, employing data pre-processing techniques, and taking ownership of end-to-end data science projects. Translating product requirements into analytical specifications and leveraging technology to automate operational activities are some of my key strengths.
+I have a profound belief in the power of technology to solve complex problems and make a positive impact. As a Data Engineer, I find joy in tackling challenging projects, employing data pre-processing techniques, and taking ownership of end-to-end Data Engineer projects. Translating product requirements into analytical specifications and leveraging technology to automate operational activities are some of my key strengths.
 
 ## Constant Growth
 
@@ -20,7 +20,7 @@ I am excited about the endless possibilities in the field of technology, and I r
 
 ## My Projects
 
-Please explore my portfolio to learn more about the projects I've worked on and the skills I've honed along the way. You'll find a diverse range of projects, including Data Engineering, Machine Learning, Full Stack Devloper, and much more.
+Please explore my portfolio to learn more about the projects I've worked on and the skills I've honed along the way. You'll find a diverse range of projects, including Data Engineering, Data Science, Full Stack Devloper, and much more.
 
 Thank you for visiting, and I hope you enjoy your time here!
 
