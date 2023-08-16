@@ -5,6 +5,34 @@ description: Data Science Projects
 ---
 
 ## Data Science Projects
+
+# Image Captioning with Transformers: A Fusion of Vision and Language
+
+## Overview
+Explore my transformative project uniting the power of transformers with image captioning. This endeavor showcases my adeptness at leveraging cutting-edge techniques in machine learning and computer vision to tackle real-world challenges.
+
+## Description
+Witness the magic of transformers as they infuse life into image captions, surpassing traditional methods. The VisionEncoderDecoderModel chosen for this project seamlessly encodes image content and decodes it into meaningful captions, outshining models like VGG16.
+
+## Advantages of Transformers
+Transformers redefine image captioning, leveraging their self-attention mechanism to capture intricate relationships and context, resulting in contextually rich captions.
+
+## Implementation
+Driven by a user-friendly Streamlit interface, the project effortlessly preprocesses images using the VisionEncoderDecoderModel, ViTImageProcessor, and AutoTokenizer. Captivating captions are generated and displayed alongside the original image.
+
+## Conclusion
+This project exemplifies my expertise in merging transformers and image captioning to pioneer solutions at the crossroads of machine learning and computer vision.
+
+## Setup and Usage
+1. Prerequisites: Python 3.6+, Git.
+2. Installation: Clone the repository, download specified folders, and install required packages.
+3. Run the Project: Immerse yourself in the world of image captioning with a seamless user experience.
+
+**Experience the Fusion of Vision and Language!**
+Live Website Link: [Image Captioning with Transformers](https://huggingface.co/spaces/saurabhharak/image-captioning-streamlit)
+
+
+
 **Title: BoomBikes Shared Bikes**
 - **Problem Statement:** Model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features.
 - **Steps Followed:**
