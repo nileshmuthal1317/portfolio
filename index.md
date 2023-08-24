@@ -21,7 +21,7 @@ I am excited about the endless possibilities in the field of technology, and I r
 
 ## My Projects
 
-Please explore my portfolio to learn more about the projects I've worked on and the skills I've honed along the way. You'll find a diverse range of projects, Linux SysOps, Automation using Bash.Python, Cloud and DevOps Projects.
+Please explore my portfolio to learn more about the projects I've worked on and the skills I've honed along the way. You'll find a diverse range of projects, Linux SysOps, Automation using Bash/Python, Cloud and DevOps Projects.
 
 Thank you for visiting, and I hope you enjoy your time here!
 
