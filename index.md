@@ -2,7 +2,7 @@
 # Nilesh Muthal Portfolio !
 
 
-Hello, I'm Nilesh, an independent and self-motivated professional with a passion for Linux Server Enginnering, Cloud/DevOps Practices and various IT Infrastructure Services.
+Hello, I'm Nilesh, an independent and self-motivated professional with a passion for Linux Server Enginnering, Cloud/DevOps Practices and various IT Infrastructure related Services.
 
 ## About Me
 
