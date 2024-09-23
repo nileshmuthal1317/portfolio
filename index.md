@@ -42,6 +42,10 @@ Explore my work to see practical applications of my skills and how I’ve contri
 I would love to connect and explore potential collaborations! Feel free to reach out for opportunities or discussions:
 
 - 📧 Email: [nileshmuthal.jobs@gmail.com](mailto:nileshmuthal.jobs@gmail.com)
-- 📱 Phone: [+91-8668629762](tel:+918668629762)
+- 📱 Phone: [+91 8668629762](tel:+918668629762)  
+
+---
 
 Thank you for visiting my portfolio! I hope you find it inspiring and informative. Together, let’s drive innovation and success in the tech landscape!
+
+---
