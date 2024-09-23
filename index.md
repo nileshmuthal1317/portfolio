@@ -45,9 +45,7 @@ I would love to connect and explore potential collaborations! Feel free to reach
 - 📱 Phone: [+91 8668629762](tel:+918668629762)  
 
 ---
-
 <br>
-
 Thank you for visiting my portfolio! I hope you find it inspiring and informative. Together, let’s drive innovation and success in the tech landscape!
 
 
